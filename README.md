@@ -1,12 +1,11 @@
 # Power BI riport
 
-Ez a projekt egy egyetemi beadandó keretében készült, amely adatok vizualizációját mutatja be Power BI segítségével.
+Ez a projektem egy egyetemi beadandó keretében készült, amely adatok vizualizációját mutatja be Power BI segítségével.
 
 ## Fő funkciók
-- Adatok betöltése és tisztítása Power BI-ban
-- Interaktív dashboard készítése
-- Mutatók és KPI-k számítása (pl. napi forgalom)
-- Dinamikus szűrések és vizualizációk
+- Interaktív dashboard készítés: Grafikonok, táblázatok és vizuális elemek a könnyebb elemzéshez.
+- Mutatók és KPI-k számítása: pl. napi forgalom, átlagos értékek.
+- Dinamikus szűrések és vizualizációk: Felhasználói interakciók alapján frissülő nézetek.
 
 ## Technológiák
 - Microsoft Power BI
