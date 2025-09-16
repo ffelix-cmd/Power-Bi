@@ -1,4 +1,4 @@
-# LPower BI riport
+# Power BI riport
 
 Ez a projekt egy egyetemi beadandó keretében készült, amely adatok vizualizációját mutatja be Power BI segítségével.
 
